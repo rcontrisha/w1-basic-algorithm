@@ -1,0 +1,20 @@
+FUNCTION calculateBill
+	DECLARE usage, price, totalBill : num
+
+BEGIN
+	INPUT(usage)
+
+	IF usage > 200:
+		price <- 5000
+	ELSE
+		IF usage > 100:
+			price <- 3000
+		ELSE
+			price <- 2000
+		ENDIF
+	ENDIF
+	
+	totalBill <- usage * price
+
+	OUTPUT("Total Bill: ", totalBill)
+END
