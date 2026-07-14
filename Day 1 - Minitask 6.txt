@@ -1,5 +1,5 @@
 FUNCTION calculateTotalPrice
-	DECLARE price, discount : float
+	DECLARE price, discount, total : float
 BEGIN
 	INPUT(price)
 	IF price > 1000000:
