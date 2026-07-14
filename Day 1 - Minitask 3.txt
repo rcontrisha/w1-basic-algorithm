@@ -6,5 +6,6 @@ Goals: Menentukan apakah variabel x adalah bilangan ganjil atau genap
 1. Mulai
 2. Masukan variabel x
 3. Bagi variabel x dengan angka 2
-4. Jika nilai sisa dari pembagian tersebut sama dengan 0, maka x adalah bilangan genap; jika tidak, maka x adalah bilangan ganjil
-5. Selesai
+4. Jika nilai sisa dari pembagian tersebut sama dengan 0, maka x adalah bilangan genap
+5. Jika tidak, maka x adalah bilangan ganjil
+6. Selesai
