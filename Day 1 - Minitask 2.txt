@@ -4,6 +4,9 @@ Rumus:
 - Luas = pi x r x r
 - Keliling = 2 x pi x r
 
+Dimana:
+r = jari-jari lingkaran
+
 Goals: Menghitung Luas dan Keliling Lingkaran
 
 1. Mulai
