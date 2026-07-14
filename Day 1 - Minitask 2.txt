@@ -1,0 +1,14 @@
+Algoritma "Menghitung Luas dan Keliling Lingkaran"
+
+Rumus:
+- Luas = pi x r x r
+- Keliling = 2 x pi x r
+
+Goals: Menghitung Luas dan Keliling Lingkaran
+
+1. Mulai
+2. Ukur jari-jari lingkaran (jarak dari titik pusat lingkaran ke titik mana pun di tepi atau keliling lingkaran)
+3. Jika jari-jari lingkaran nilainya dapat dibagi 7, tetapkan nilai pi = 22/7, selain itu maka nilai pi = 3,14
+4. Masukkan variabel yg sudah didapat (pi dan jari-jari) ke dalam rumus Keliling dan Luas Lingkaran
+5. Hitung hasilnya
+6. Selesai
