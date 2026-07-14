@@ -1,0 +1,10 @@
+Algoritma "Memindah Air di Dalam Gelas"
+Goal: Menukar Teh pada Gelas A dengan Kopi pada Gelas B
+
+1. Mulai
+2. Siapkan 2 gelas yg masing-masing berisi teh (gelas A) dan kopi (gelas B)
+3. Siapkan 1 gelas kosong (gelas C)
+4. Tuang teh yg ada di gelas A ke dalam gelas C
+5. Tuang kopi yg ada di gelas B ke dalam gelas A
+6. Pindahkan teh yg ada di gelas C ke dalam gelas B
+7. Selesai
