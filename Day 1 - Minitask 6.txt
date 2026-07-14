@@ -1,0 +1,16 @@
+FUNCTION calculateTotalPrice
+	DECLARE price, discount : float
+BEGIN
+	INPUT(price)
+	IF price > 1000000:
+		discount <- 0.1
+	ELSE
+		IF price >= 500000:
+			discount <- 0.05
+		ELSE
+			discount <- 0
+		ENDIF
+	ENDIF
+	total <- price - (price * discount)
+	OUTPUT("Total: ", total)
+END
